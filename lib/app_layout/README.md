@@ -69,7 +69,7 @@ Here is an example:
 </header>
 ```
 
-![Simple App Bar](g3doc/simple_app_bar.png)
+![Simple App Bar](/lib/app_layout/g3doc/simple_app_bar.png)
 
 ## Drawers
 
